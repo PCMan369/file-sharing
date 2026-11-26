@@ -1,0 +1,4 @@
+SDLNet_TCP_Open: found
+Anchor symbols: found
+Info.plist local-network usage description: present
+App built successfully; no IPA was packaged or uploaded.

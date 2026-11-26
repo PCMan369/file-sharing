@@ -1,0 +1,1 @@
+HarkinianPad uses your local network to connect to Anchor multiplayer sessions.

@@ -1,0 +1,4 @@
+Removing inherited SDKROOT=/Applications/Xcode-26.3.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk
+CPATH was not set
+LIBRARY_PATH was not set
+SDKROOT, CPATH and LIBRARY_PATH are unset for the iOS device build

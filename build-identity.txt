@@ -1,0 +1,13 @@
+repository: https://PCMan369@github.com/PCMan369/harkinianpad
+branch: codemagic/anchor-ios-symbol-check
+harkinianpad_commit: 7b1f5f4abf72d060adb5d137692ab57b497fd4da
+subject: Fix shell escaping in Codemagic workflow
+commit_date: 2026-11-25T16:39:11-08:00
+codemagic_build_id: 6b0781a75875c49912d628bd
+codemagic_commit: 7b1f5f4abf72d060adb5d137692ab57b497fd4da
+Shipwright commit: ad4168a4e46be941e51965c6b9ad7ad891310030
+SDL2_net pin: 669e75b84632e2c6cc5c65974ec9e28052cb7a4e
+sources.lock.json sha256: 088a7803c986985aee802e483b229d2ccc8ffe1a531c38a6fefe0be6873c0bef
+ ad4168a4e46be941e51965c6b9ad7ad891310030 sources/Shipwright (ad4168a4)
+ 3aef4880ed40ad6f5a080c78b41da2c957cd3cfd sources/Shipwright/libultraship (3aef488)
+ 2ab12fe9660aec04e02ee89fe81baed304a1a1d6 sources/Shipwright/torch (2ab12fe)

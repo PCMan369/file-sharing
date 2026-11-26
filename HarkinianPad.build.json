@@ -1,0 +1,178 @@
+{
+  "schema": 1,
+  "profile": "maintained",
+  "components": [
+    {
+      "name": "Shipwright",
+      "upstream": "https://github.com/PCMan369/Shipwright.git",
+      "base_commit": "f0599f96f8d442f26d0fa1c5cedafddacd56633f",
+      "commit": "ad4168a4e46be941e51965c6b9ad7ad891310030",
+      "prepared_tree": "8b8ccc5b758e9a1bb4185a2295ecc1494b2ac708",
+      "files": 24678
+    },
+    {
+      "name": "libultraship",
+      "upstream": "https://github.com/chrissotraidis/libultraship.git",
+      "base_commit": "da6daf1a50a5e46d6641408d52227e31e85e46df",
+      "commit": "3aef4880ed40ad6f5a080c78b41da2c957cd3cfd",
+      "prepared_tree": "2e07e8063ab166ff0717845ae5a5b339b1876b7b",
+      "files": 435
+    },
+    {
+      "name": "Torch",
+      "upstream": "https://github.com/HarbourMasters/Torch.git",
+      "base_commit": "2ab12fe9660aec04e02ee89fe81baed304a1a1d6",
+      "commit": "2ab12fe9660aec04e02ee89fe81baed304a1a1d6",
+      "prepared_tree": "2611f0a521e6c60d18dc8b52316512db03e0f36c",
+      "files": 764
+    }
+  ],
+  "wrapper": {
+    "commit": "7b1f5f4abf72d060adb5d137692ab57b497fd4da",
+    "dirty": true
+  },
+  "tools": {
+    "xcode": "Xcode 26.3\nBuild version 17C529",
+    "cmake": "cmake version 4.2.3",
+    "sdk": "26.2"
+  },
+  "app": {
+    "CFBundleIdentifier": "com.chrissotraidis.harkinianpad",
+    "CFBundleShortVersionString": "0.2.4",
+    "CFBundleVersion": "11",
+    "MinimumOSVersion": "15.0",
+    "DTPlatformName": "iphoneos"
+  },
+  "executable_sha256": "d73a5d9faae11fac69fb2abb04457d2b4de6f5e4c76f968e74ea270d993eefa5",
+  "port_archive_sha256": "4ed5a919f2d4c99c143c6872b2b39529864b31f04b7d65a699bdd3308ffe65d8",
+  "source_lock_sha256": "088a7803c986985aee802e483b229d2ccc8ffe1a531c38a6fefe0be6873c0bef",
+  "resolved_git_dependencies": [
+    {
+      "name": "dr_libs-src",
+      "commit": "da35f9d6c7374a95353fd1df1d394d44ab66cf01",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "imgui-src",
+      "commit": "4806a1924ff6181180bf5e4b8b79ab4394118875",
+      "tracked_diff_sha256": "0216c5f04790f10149ef8dc442a215f1bc1c181d620adb715aa2106d1b55bb12",
+      "dirty": true
+    },
+    {
+      "name": "iostoolchain-src",
+      "commit": "06465b27698424cf4a04a5ca4904d50a3c966c45",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "libgfxd-src",
+      "commit": "008f73dca8ebc9151b205959b17773a19c5bd0da",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "libzip-src",
+      "commit": "6f8a0cdd24a0dc6cce9dac4a7679da784ab124ea",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "metalcpp-src",
+      "commit": "7bf710a725b386f6db869f8a2b48a56be29b6233",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "monocypher-src",
+      "commit": "0d85f98c9d9b0227e42cf795cb527dff372b40a4",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "nlohmann_json-src",
+      "commit": "55f93686c01528224f448c19128836e7df245f72",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "ogg-src",
+      "commit": "be05b13e98b048f0b5a0f5fa8ce514d56db5f822",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "opus-src",
+      "commit": "ddbe48383984d56acd9e1ab6a090c54ca6b735a6",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "opusfile-src",
+      "commit": "a55c164e9891a9326188b7d4d216ec9a88373739",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "prism-src",
+      "commit": "1de054450e7b3c5f777d2e3dfcb228ad120c329d",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "sdl2-src",
+      "commit": "5d249570393f7a37e037abf22cd6012a4cc56a71",
+      "tracked_diff_sha256": "15c5836d9e352278a4e4731159673c238b1fe6b1c96e75414c629bf31668c8ee",
+      "dirty": true
+    },
+    {
+      "name": "sdl2_net-src",
+      "commit": "669e75b84632e2c6cc5c65974ec9e28052cb7a4e",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "spdlog-src",
+      "commit": "486b55554f11c9cccc913e11a87085b2a91f706f",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "stormlib-src",
+      "commit": "28c9b4be3f23c6b3a5ff55cacac7dbe5b9cdc4fc",
+      "tracked_diff_sha256": "6cce24105953850f4e1e02941cb3bde839f7cba1a4d3878ab24308de4b75e0c1",
+      "dirty": true
+    },
+    {
+      "name": "threadpool-src",
+      "commit": "097aa718f25d44315cadb80b407144ad455ee4f9",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "tinyxml2-src",
+      "commit": "321ea883b7190d4e85cae5512a12e5eaa8f8731f",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "vorbis-src",
+      "commit": "0657aee69dec8508a0011f47f3b69d7538e9d262",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "yaml-cpp-src",
+      "commit": "56e3bb550c91fd7005566f19c079cb7a503223cf",
+      "tracked_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "dirty": false
+    },
+    {
+      "name": "zlib-src",
+      "commit": "51b7f2abdade71cd9bb0e7a373ef2610ec6f9daf",
+      "tracked_diff_sha256": "5b01c05b4c5a9574337ffdf123958f8e51c0bf6ca42c245ccf4a97b7820e17d8",
+      "dirty": true
+    }
+  ],
+  "qualification": "Build identity only; complete offline source delivery and redistribution qualification pending."
+}

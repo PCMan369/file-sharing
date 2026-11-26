@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "profile": "maintained",
+  "components": [
+    {
+      "name": "Shipwright",
+      "upstream": "https://github.com/PCMan369/Shipwright.git",
+      "base_commit": "f0599f96f8d442f26d0fa1c5cedafddacd56633f",
+      "commit": "ad4168a4e46be941e51965c6b9ad7ad891310030",
+      "prepared_tree": "8b8ccc5b758e9a1bb4185a2295ecc1494b2ac708",
+      "files": 24678
+    },
+    {
+      "name": "libultraship",
+      "upstream": "https://github.com/chrissotraidis/libultraship.git",
+      "base_commit": "da6daf1a50a5e46d6641408d52227e31e85e46df",
+      "commit": "3aef4880ed40ad6f5a080c78b41da2c957cd3cfd",
+      "prepared_tree": "2e07e8063ab166ff0717845ae5a5b339b1876b7b",
+      "files": 435
+    },
+    {
+      "name": "Torch",
+      "upstream": "https://github.com/HarbourMasters/Torch.git",
+      "base_commit": "2ab12fe9660aec04e02ee89fe81baed304a1a1d6",
+      "commit": "2ab12fe9660aec04e02ee89fe81baed304a1a1d6",
+      "prepared_tree": "2611f0a521e6c60d18dc8b52316512db03e0f36c",
+      "files": 764
+    }
+  ]
+}

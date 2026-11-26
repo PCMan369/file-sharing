@@ -1,0 +1,1 @@
+Non-fat file: /Users/builder/clone/build-ios-soh/soh/Release-iphoneos/HarkinianPad.app/HarkinianPad is architecture: arm64
